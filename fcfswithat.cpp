@@ -1,7 +1,7 @@
 #include<iostream>
-#include<string.h>
+
 #define N 10
-//using namespace std;
+
 int  at[N], ct[N], tat[N], wt[N];
 float act,awt,atat;
 
