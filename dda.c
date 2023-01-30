@@ -34,6 +34,5 @@ int main(){
         x += xinc;
         y += yinc;
     }
-
     return 0;
 }
